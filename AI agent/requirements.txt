@@ -1,0 +1,5 @@
+pandas
+deepdiff
+scikit-learn
+requests
+Flask

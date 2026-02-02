@@ -1,0 +1,29 @@
+{
+  "old_path": "c:\\Users\\Dell\\OneDrive - Tenant Inc\\Desktop\\My Learnings\\AI agent\\old_Units.csv",
+  "new_path": "c:\\Users\\Dell\\OneDrive - Tenant Inc\\Desktop\\My Learnings\\AI agent\\new_data\\Units.csv",
+  "summary": {
+    "added_columns": [
+      "Offline",
+      "OfflineReason"
+    ],
+    "removed_columns": [],
+    "type_changes": {},
+    "schema_diff": {
+      "dictionary_item_added": {
+        "root['Offline']": "float64",
+        "root['OfflineReason']": "float64"
+      }
+    }
+  },
+  "null_rate_changes": {
+    "Offline": {
+      "old_null_rate": 0.0,
+      "new_null_rate": 1.0
+    },
+    "OfflineReason": {
+      "old_null_rate": 0.0,
+      "new_null_rate": 1.0
+    }
+  },
+  "numeric_distribution_changes": {}
+}
